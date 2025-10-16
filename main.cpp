@@ -25,5 +25,4 @@ int main() {
     for(int j=0; j<n+1; j++){
         std::cout << codeArray[n+*pointerArray[j]] << std::endl;
     }
-
 }
